@@ -1,4 +1,4 @@
-a= input('Как тебя зовут?')
+a= input('Как тя зовут?')
 a1=a.upper()
 a2=a.lower()
 s=a[:1]
